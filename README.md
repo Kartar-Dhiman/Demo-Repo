@@ -11,8 +11,8 @@ This is a plain project that will generate the random passwords.
 
 ### TechStack
 ```
-**Operating system**: Ubuntu 20.04 LTS
-**Programming Language**: Python 3.8.0
-**IDE**: Pycharm CE 2020.1
-**Django Version**: 3.0.5
+Operating system: Ubuntu 20.04 LTS
+Programming Language: Python 3.8.0
+IDE: Pycharm CE 2020.1
+Django Version: 3.0.5
 ```
